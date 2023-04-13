@@ -12,6 +12,8 @@ mongoose
   })
   .catch((err) => console.log(err));
 
+app.get()
+
 app.listen(3001, () => {
   console.log("SERVER RUNS PERFECTLY!");
   console.log(URL)
