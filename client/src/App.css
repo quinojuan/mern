@@ -1,0 +1,10 @@
+.usersDisplayCard {
+    border: 1px solid red;
+    margin-right: 5px;
+    display: inline-block;
+    padding: 15px;
+}
+
+.form {
+    margin: 0 auto;
+}
